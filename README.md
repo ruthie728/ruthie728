@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ruth Atieno  
 
-💻 **Junior Backend Developer | Special Education Student | Aspiring EdTech Innovator**  
+💻 **Junior Backend Developer | Special Needs Education Student | Aspiring EdTech Innovator**  
 
 ---
 
